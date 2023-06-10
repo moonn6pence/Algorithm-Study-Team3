@@ -17,6 +17,7 @@
   <tr>
     <td align="center"><a href="https://github.com/YongsHub"><img src="https://github.com/YongsHub.png?size=200" alt=""/><br /><sub><b>김태용</b></sub></a>     <br /><a title="Java">💻</a></td>
     <td align="center"><a href="https://github.com/chae-heechan"><img src="https://github.com/chae-heechan.png?size=200" alt=""/><br/><sub><b>채희찬</b></sub></a><br /><a title="Java">💻</a></td>
+    <td align="center"><a href="https://github.com/moonn6pence"><img src="https://github.com/moonn6pence.png?size=200" alt=""/><br/><sub><b>신현철</b></sub></a><br /><a title="Java">💻</a></td>
     <td align="center"><a href="https://github.com/khs960616"><img src="https://github.com/khs960616.png?size=200" alt=""/><br/><sub><b>김한성</b></sub></a><br /><a title="Java">💻</a></td>
     <td align="center"><a href="https://github.com/seungukkim"><img src="https://github.com/seungukkim.png?size=200" alt=""/><br/><sub><b>김승욱</b></sub></a><br /><a title="Java">💻</a></td>
     <td align="center"><a href="https://github.com/rkdalsrn555"><img src="https://github.com/rkdalsrn555.png?size=200" alt=""/><br/><sub><b>강민구</b></sub></a><br /><a title="Java">💻</a></td>
